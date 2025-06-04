@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+
+id = "modeling_cloth"
+name = "Modeling Clothes"
+maintainer = "Rich Colburn <the3dadvantage@gmail.com>"
+tagline = "Maintains the surface area of an object so it behaves like cloth"
+version = "1.0.0"
+website = "https://github.com/RubisetCie/modeling-clothes"
+license = ["SPDX:MIT"]
+tags = ["Modeling", "3D View"]
+type = "add-on"
+
+blender_version_min = "4.2.0"
